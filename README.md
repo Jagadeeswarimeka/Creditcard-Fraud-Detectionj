@@ -1,3 +1,8 @@
+# CODTECH IT SOLUTIONS TASK2
+## Internship Domain : Machine Learning
+## Intern ID : CT12DS2491
+## Intern Name : MEKA JAGADEESWARI
+## Project Name : CREDITCARD FRAUD DETECTION
 
 # Credit Card Fraud Detection
 
